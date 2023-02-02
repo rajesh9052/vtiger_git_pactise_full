@@ -54,6 +54,7 @@ public class creating_orgainization {
 			  
 			  driver.findElement(By.xpath("//input[@name='q']")).sendKeys(name);
 	                   //pushed the code
+			    //pushing the code
 		}		  
 	}
 
