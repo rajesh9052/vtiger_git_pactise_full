@@ -53,6 +53,7 @@ public class creating_orgainization {
 			  driver.get(url);
 			  
 			  driver.findElement(By.xpath("//input[@name='q']")).sendKeys(name);
+	                   //pushed the code
 		}		  
 	}
 
